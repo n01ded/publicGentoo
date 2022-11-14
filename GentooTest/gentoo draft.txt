@@ -1,0 +1,20 @@
+PHASE 1
+    Partitions
+    Formattage
+    Date
+    Stage 3 Tarball
+    Options de compilation
+    Montage systèmes de fichier
+    CHROOT
+
+PHASE 2
+    Montage des partitions
+    Paramétrage de Portage
+    Localisation
+    Kernel
+    Informations système
+    Configuration de GRUB
+
+TODO LIST
+
+create doas.conf
